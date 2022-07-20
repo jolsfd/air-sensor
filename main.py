@@ -26,6 +26,7 @@ def connect_to_wifi():
     print("connection triggered")
     wlan = network.WLAN(network.STA_IF)
     wlan.active(True)
+    wlan.config(pm = 0xa11140)
     wlan.connect(SSID, PASSWORD)
     
     max_wait = 10
