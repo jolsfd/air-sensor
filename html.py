@@ -51,7 +51,7 @@ html = """<!DOCTYPE html>
       <h2>Pressure: <span id="pressureValue">None</span> pa</h2>
     </div>
     <div class="container">
-      <p>Source: <a href="https://github.com/jolsfd/bmp280-sensor">GitHub</a></p>
+      <p>Source: <a href="https://github.com/jolsfd/air-sensor">GitHub</a></p>
     </div>
 
     <script>
