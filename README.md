@@ -1,4 +1,4 @@
-# bmp280-sensor/turbo-couscous
+# air-sensor
 
 ![hardware](https://github.com/jolsfd/bmp280-sensor/blob/main/assets/hardware.jpg)
 ![web page](https://github.com/jolsfd/bmp280-sensor/blob/main/assets/screenshot.png)
